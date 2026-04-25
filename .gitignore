@@ -1,0 +1,13 @@
+
+# notes
+*.notes.md
+*.notes
+
+# Temporary files
+/*.bak/
+*.bak
+*.log
+*.tmp
+
+# IDE files
+.vscode/
