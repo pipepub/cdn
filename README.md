@@ -1,4 +1,4 @@
-[![Publish like a PRO](/image/logo/pipepub-full-right.png)](https://github.com/pipepub "PipeHub - Publish like a PRO")
+[![Publish like a PRO](https://pipepub.github.io/cdn/image/logo/pipepub-full-right.png)](https://github.com/pipepub "PipeHub - Publish like a PRO")
 
 ### PipeHub CDN
 
@@ -9,13 +9,19 @@
 ```markdown
 /
 ├── assets
-├── image
-│   ├── badge
-│   ├── hero
-│   ├── logo
-│   ├── power
-│   ├── screenshot
-│   └── social
+└── image
+│   ├── badge
+│   │   ├── doc
+│   │   ├── license
+│   │   ├── logo
+│   │   ├── release
+│   │   ├── repo
+│   │   └── version
+│   ├── hero
+│   ├── logo
+│   ├── power
+│   ├── screenshot
+│   └── social
 ├── LICENSE
 └── README.md
 ```
