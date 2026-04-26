@@ -1,13 +1,27 @@
+# Temporary
+*.tmp
+*.cache
 
-# notes
+# Logs
+*.log
+
+# Backup
+*.bak
+
+# Notes
 *.notes.md
 *.notes
 
-# Temporary files
-/*.bak/
-*.bak
-*.log
-*.tmp
-
-# IDE files
+# IDE
 .vscode/
+
+# Hidden
+.*/
+
+# Sources
+*/.sources/
+*.xcf
+
+# Configuration
+.env
+.env.local
